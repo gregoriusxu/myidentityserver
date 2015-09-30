@@ -39,6 +39,9 @@
     <Reference Include="Abp">
       <HintPath>..\packages\Abp.0.6.4.1\lib\net451\Abp.dll</HintPath>
     </Reference>
+    <Reference Include="Abp.AutoMapper">
+      <HintPath>..\packages\Abp.AutoMapper.0.6.3.0\lib\net451\Abp.AutoMapper.dll</HintPath>
+    </Reference>
     <Reference Include="Abp.EntityFramework">
       <HintPath>..\packages\Abp.EntityFramework.0.6.4.1\lib\net451\Abp.EntityFramework.dll</HintPath>
     </Reference>
